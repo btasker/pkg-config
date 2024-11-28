@@ -16,10 +16,10 @@ import (
 	"strings"
 
 	"github.com/Masterminds/semver"
-	"github.com/influxdata/pkg-config/internal/logutil"
-	"github.com/influxdata/pkg-config/internal/modfile"
-	"github.com/influxdata/pkg-config/internal/modload"
-	"github.com/influxdata/pkg-config/internal/module"
+	"github.com/btasker/pkg-config/internal/logutil"
+	"github.com/btasker/pkg-config/internal/modfile"
+	"github.com/btasker/pkg-config/internal/modload"
+	"github.com/btasker/pkg-config/internal/module"
 	"go.uber.org/zap"
 )
 
