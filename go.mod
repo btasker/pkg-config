@@ -1,4 +1,4 @@
-module github.com/influxdata/pkg-config
+module github.com/btasker/pkg-config
 
 go 1.12
 
